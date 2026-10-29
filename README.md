@@ -1,5 +1,7 @@
 # Assorted Energies International — website
 
+**Live:** https://assorted-energies.onrender.com (Render static site, auto-deploys on push to `main`)
+
 Static, dependency-free site. Open `index.html` directly, or serve the folder:
 
 ```
